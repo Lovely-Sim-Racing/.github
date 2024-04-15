@@ -1,4 +1,4 @@
-I'm Constantinos, and this is Lovely Sim Racing. I've been driving pretend race cars since 2020. Along the way, I also created the Lovely Dashboard, a multifunctional feature packed SimHub Dashboard.
+I'm Constantinos, and this is Lovely Sim Racing. I've been driving pretend race cars since 2020. Along the way, I also created the **Lovely Dashboard**, a multifunctional feature packed SimHub Dashboard.
 
 Used by thousands* of sim racers across the world, the Lovely Dashboard (and ecosystem) has become a staple in every ones sim racing setups. From professionals like Tony Kanaan all the way to rookies, the Lovely Dashboard delivers the best and most consistent information for all simulators.
 
