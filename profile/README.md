@@ -4,5 +4,4 @@ Used by thousands* of sim racers across the world, the **Lovely Dashboard** (and
 
 It is completely free for everyone to use, but in order to develop, maintain and create new features, it does require plenty of time. And that is why I seek your sponsorship and help...  Becoming a Lovely Member strengthens my commitment to always deliver the best possible experience for sim racing enthusiasts and professionals.
 
-* Google Analytics: 6.2k Unique Users Mar-July 2023
-[]()
+ (*) Google Analytics: 21k Unique Users March 2023 - March 2024
